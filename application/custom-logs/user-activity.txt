@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+INFO - 18-08-17 22:36:46 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-August-2017 excel report
+INFO - 18-08-17 22:37:42 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-August-2017 excel report
+INFO - 18-08-17 22:38:33 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-June-2017 pdf report
+INFO - 18-08-17 22:39:30 --> Anuj Shah[anuj.shah95@gmail.com] requested for income pdf report
+INFO - 18-08-17 22:43:08 --> Anuj Shah[anuj.shah95@gmail.com] submitted feedback
+INFO - 18-08-17 22:47:24 --> Demo[demo@demo.com] requested for income pdf report
+INFO - 18-08-17 22:48:27 --> Demo[demo@demo.com] requested for monthly-report-August-2017 pdf report
+INFO - 18-08-17 22:48:35 --> Demo[demo@demo.com] requested for monthly-report-August-2017 excel report
+INFO - 18-08-17 22:55:45 --> Demo[demo@themoneytracker.in] requested for monthly-report-August-2017 excel report
+INFO - 21-08-17 00:17:36 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-August-2017 pdf report
+INFO - 24-08-17 23:46:41 --> Anuj Shah[anuj.shah95@gmail.com] requested for expenditure pdf report
+INFO - 24-08-17 23:47:00 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-April-2017 pdf report
+INFO - 29-08-17 09:27:02 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-August-2017 pdf report
+INFO - 30-08-17 23:38:41 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-August-2017 pdf report
+INFO - 25-10-17 21:09:06 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-October-2017 pdf report
+INFO - 02-12-17 00:33:15 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-December-2017 pdf report
+INFO - 02-12-17 00:33:43 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-November-2017 pdf report
+INFO - 25-12-17 15:10:55 --> Anuj Shah[anuj.shah95@gmail.com] requested for fund pdf report
+INFO - 25-12-17 15:11:06 --> Anuj Shah[anuj.shah95@gmail.com] requested for debitors pdf report
+INFO - 25-12-17 15:11:14 --> Anuj Shah[anuj.shah95@gmail.com] requested for creditors pdf report
+INFO - 25-12-17 15:11:37 --> Anuj Shah[anuj.shah95@gmail.com] requested for investment pdf report
+INFO - 25-12-17 15:12:04 --> Anuj Shah[anuj.shah95@gmail.com] requested for expenditure pdf report
+INFO - 02-01-18 10:29:47 --> Anuj Shah[anuj.shah95@gmail.com] requested for expenditure pdf report
+INFO - 19-01-18 01:02:16 --> Anuj Shah[anuj.shah95@gmail.com] requested for fund excel report
+INFO - 04-02-18 11:20:53 --> Anuj Shah[anuj.shah95@gmail.com] requested for fund pdf report
+INFO - 10-02-18 16:38:46 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-February-2018 excel report
+INFO - 10-02-18 16:43:15 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-February-2018 pdf report
+INFO - 20-02-18 15:32:26 --> Anuj Shah[anuj.shah95@gmail.com] requested for monthly-report-February-2018 pdf report
+INFO - 20-02-18 15:33:51 --> Anuj Shah[anuj.shah95@gmail.com] submitted feedback
+INFO - 03-03-18 14:26:45 --> Anuj Shah[anuj.shah95@gmail.com] requested for expenditure pdf report
+INFO - 19-03-18 00:42:07 --> Anuj Shah[anuj.shah95@gmail.com] requested for expenditure pdf report
+INFO - 01-09-18 16:43:35 --> Anuj Shah[anuj.shah95@gmail.com] requested for creditors pdf report
+INFO - 01-09-18 17:06:50 --> Anuj Shah[anuj.shah95@gmail.com] requested for fund excel report
+INFO - 29-09-18 23:38:53 --> Anuj Shah[anuj.shah95@gmail.com] requested for expenditure excel report
+INFO - 23-12-18 17:27:39 --> Anuj Shah[anuj.shah95@gmail.com] requested for expenditure pdf report
