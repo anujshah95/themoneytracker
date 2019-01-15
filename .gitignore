@@ -1,0 +1,8 @@
+.htaccess
+uploads
+backup
+application/cache
+application/logs
+application/config/config.php
+application/config/database.php
+application/config/memcached.php
