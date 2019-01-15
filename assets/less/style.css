@@ -1,0 +1,67 @@
+.fs-50{
+    font-size: 35px;
+}
+
+.fs-80{
+    font-size: 80px;
+}
+
+.fs-25{
+    font-size: 25px;
+}
+
+.pb-3{
+    padding-bottom: 3px;
+}
+
+.pb-0{
+    padding-bottom: 0px;
+}
+
+.demo-color span a{
+    color: #fff;
+}
+.custom-inverse{background-color: #37474f;border-color: #37474f; }
+.progress{height: 35px;}
+.progress .skill{
+  font: normal 12px "Open Sans Web";
+  line-height: 35px;
+  padding: 0;
+  margin: 0 0 0 20px;
+  text-transform: uppercase;
+}
+.progress .skill .val {
+  float: right;
+  font-style: normal;
+  margin: 0 20px 0 0;
+}
+.progress-bar{text-align: left;transition-duration: 3s;}
+#to-do-list{
+  background-color: #FFFFE0;
+  max-width: 350px;
+  max-height: 250px;
+  font-family: Satisfy;
+  font-size: 20px;
+  box-shadow: 0 10px 10px 2px rgba(0,0,0,0.3);
+  color: #333;
+  resize: none;
+}
+.loading_animation {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 ) 
+                url('../images/red_loader.gif') 
+                50% 50% 
+                no-repeat;
+}
+body.loading{overflow: hidden;}
+body.loading .loading_animation{display: block;}
+.textarea-max{resize:none;}
+.morecontent span{display: none;}
+.morelink{display: block;}
+.monthly-report-details .panel-heading a{color:white;text-decoration: underline;}

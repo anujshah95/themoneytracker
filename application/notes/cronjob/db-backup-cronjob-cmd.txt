@@ -1,0 +1,3 @@
+mysqldump desitkz1_moneytracker | gzip > /home/desitkz1/public_html/themoneytracker.in/backup/database-backup/moneytracker_db_$(date +\%d'-'\%m'-'\%y'_'\%H'-'\%M'-'\%S).sql.gz
+
+/usr/bin/mysqldump -u desitkz1_moneytr -pJEca1bTSzXAC desitkz1_moneytracker > /home/desitkz1/public_html/themoneytracker.in/backup/database-backup/moneytracker_db_$(date +\%d'-'\%m'-'\%y'_'\%H'-'\%M'-'\%S).sql 
