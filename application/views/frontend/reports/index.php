@@ -49,10 +49,7 @@
                                                 <td><?php echo $iTotalIncome; ?></td>
                                                 <td><?php echo $iTotalExp; ?></td>
                                                 <td>
-                                                    <button class="btn btn-primary report-details" data-toggle="collapse" loop-id="<?php echo $i; ?>" month-year="<?php echo $sMonthYearDash; ?>" data-target="#accordion-<?php echo $i; ?>">Let me see this</button>
-                                                    <!--
-                                                    <button class="btn btn-primary" data-toggle="collapse" data-target="#accordion-<?php echo $i; ?>">Let me see this</button>
-                                                    -->
+                                                    <button class="btn btn-primary report-details" data-toggle="collapse" loop-id="<?php echo $i; ?>" month-year="<?php echo $sMonthYearDash; ?>" data-target="#accordion-<?php echo $i; ?>"><i class="fa fa-eye"></i></button>
                                                 </td>
                                                 <td class="text-center">
                                                     <ul class="icons-list">

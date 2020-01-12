@@ -167,7 +167,7 @@ class M_Reports extends CI_Model{
 
 			if($arrExpQuery->num_rows()>=1 && isset($iTotalExp) && !empty($iTotalExp)){
 				foreach($arrCatData as $iKey=>$arrCat){
-					$iPercentage=round(($arrCat->cat_exp_total*100)/$iTotalExp);
+					$iPercentage=round(($arrCat->cat_exp_total*100)/$iTotalExp, 1);
 					$arrCatData[$iKey]->iPercentage=$iPercentage;
 				}
 			}
