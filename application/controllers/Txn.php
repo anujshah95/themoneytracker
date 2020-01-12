@@ -244,7 +244,7 @@ class Txn extends MY_Controller
 
 				if($status===TRUE){
 					$this->session->set_flashdata('success_message','Added successfully.');
-					redirect('expenditure');
+					redirect('expenditure/'.date('F-Y'));
 				}
 				if($status===FALSE){
 					$this->session->set_flashdata('error_message','Fail to add.');
