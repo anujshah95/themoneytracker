@@ -67,15 +67,6 @@
                                                 </td>
                                                 <td style="display: none;"></td>
                                             </tr>
-                                            <tr id="accordion-<?php echo $i; ?>" class="collapse monthly-report-details">
-                                                <td colspan="6"></td>
-                                                <td style="display: none;"></td>
-                                                <td style="display: none;"></td>
-                                                <td style="display: none;"></td>
-                                                <td style="display: none;"></td>
-                                                <td style="display: none;"></td>
-											</tr>
-                                            
                                             <?php
                                             $i++;
                                                 }
