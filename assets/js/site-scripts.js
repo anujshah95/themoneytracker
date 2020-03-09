@@ -223,7 +223,8 @@ function remove_img()
 $('.report-details').click(function(){
     var iLoopId     = $(this).attr('loop-id');
     var dMonthYear  = $(this).attr('month-year');
-    // $("body").addClass("loading");
+    var parent_tr = $(this).parent().parent();
+    $('.expandedContent').remove();
     $.ajax({
         type: "POST",
         data: { 
@@ -231,18 +232,14 @@ $('.report-details').click(function(){
         },
         url: baseURL+'monthly-report-details',
         success: function(response) {
-            // setTimeout(function() {
-                // $("body").removeClass("loading");
                 var obj = jQuery.parseJSON(response);
                 if(obj['iStatus']===false){
                     alertify.alert(obj['sMsg']).set('basic', true); 
                     alertify.error(obj['sMsg']);
                 }else{
                     var sAjaxView=obj['sMsg'];
-                    $('#accordion-'+iLoopId).html(sAjaxView);
-                    // $('#accordion-'+iLoopId).html(sAjaxView).delay(2500).fadeIn();
+                    $("<tr class='monthly-report-details expandedContent'>"+sAjaxView+"</tr>").insertAfter(parent_tr);
                }
-            // },500);
         }
     });
 });
