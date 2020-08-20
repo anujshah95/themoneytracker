@@ -5,4 +5,5 @@ application/cache
 application/logs
 application/config/config.php
 application/config/database.php
+application/config/s3.php
 application/config/memcached.php
